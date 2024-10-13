@@ -1,5 +1,6 @@
 # Digit-Recognizer using ANN
-![peoject](https://images.app.goo.gl/SuADWcbcuQ5vVgR89)
+![Digit Image](https://github.com/user-attachments/assets/f2873e8c-2c75-4965-a6ab-79a278266784)
+
 
 ## Overview:
 - This project focuses on building a digit recognition system using Artificial Neural Networks (ANN), specifically implemented with Keras and TensorFlow.
